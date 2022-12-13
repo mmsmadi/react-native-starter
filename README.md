@@ -4,14 +4,6 @@ This is a documentation to setup and start your first React Native CLI project.
 
 You can see the official documentation on the [website](https://reactnative.dev/docs/getting-started)
 
-## Contents
-
-- [Requirements](#-requirements)
-- [Building your first React Native app](#-building-your-first-react-native-app)
-- [Running the app](#-running-the-app)
-- [Folder structure](#-files-structure)
-- [Notes](#-notes)
-
 ## Requirements
 
 To see the requirements and setup the environment as the official website see the link below:
