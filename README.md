@@ -31,8 +31,9 @@ npx react-native init myapp --template react-native-template-typescript
 ## Running the app
 
 ```
-npx react-native run-android  or  yarn android
-npx react-native run-ios  or  yarn ios
+Android: npx react-native run-android  or  yarn android
+
+iOS: npx react-native run-ios  or  yarn ios
 ```
 
 ## Notes
