@@ -49,11 +49,9 @@ npx react-native init myapp --template react-native-template-typescript
 ## Running the app
 
 ```
-npx react-native run-android
+Android: npx react-native run-android  or  yarn android
 
-or
-
-yarn android
+iOS: npx react-native run-ios  or  yarn ios
 ```
 
 ## Folder structure
