@@ -20,6 +20,10 @@ You can see the official documentation on the [website](https://reactnative.dev/
 - [Storage](#-storage)
 - [Networking](#-networking)
 - [Animation](#-animation)
+- [Utilities](#-utilities)
+- [Open Source Apps](#-open-Source-Apps)
+- [Tutorials](#-tutorials)
+- [Books](#-books)
 - [Support](#-support)
 
 ## Requirements
@@ -109,6 +113,8 @@ src
 - [react-native-render-html](https://github.com/meliorence/react-native-render-html) - An iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [react-native-maps](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
+- [react-native-intersection-observer](https://github.com/zhbhun/react-native-intersection-observer) - React Native implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
+- [react-native-exception-handler](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - Swiper component for React Native.
 - [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
@@ -294,6 +300,188 @@ src
 - [react-native-animated-sprite](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
 - [react-native-animated-math](https://github.com/rastapasta/react-native-animated-math) - An Animated API math extension - implements sin, cos, tan and pow as Animated Nodes with full Native Driver support
 
+## Utilities
+
+- [upgrade-helper](https://github.com/react-native-community/upgrade-helper) - A web interface to support React Native developers in upgrading their apps. [Link to tool](https://react-native-community.github.io/upgrade-helper)
+- [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) - The easiest way to upgrade React Native versions. You can find diffs for every React Native version, that are created by diffing the previous version with a newly created app in the new version.
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
+- [sentry-react-native](https://github.com/getsentry/sentry-react-native) - Sentry's React Native SDK enables automatic reporting of errors and exceptions, and identifies performance issues in your application.
+- [generact](https://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
+- [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
+- [Electrode Native](https://github.com/electrode-io/electrode-native) - A platform to ease the integration of React Native components in existing mobile applications.
+- [react-native-snippets](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
+- [react-native-bundle-visualizer](https://github.com/IjzerenHein/react-native-bundle-visualizer) - See what's inside your RN bundle; useful for optimizing the bundle size
+- [AsyncStorage Dev Menu Item](https://github.com/jsoendermann/react-native-async-storage-dev-menu-item) - Adds an option to your dev menu to log the content of your AsyncStorage.
+- [rn-nodeify](https://github.com/tradle/rn-nodeify) - hack to allow react-native projects to use node core modules
+- [react-native-ruler](https://github.com/lfkwtz/react-native-ruler) - A devtool for measuring pixel dimensions on your React Native screens
+- [BuilderX](https://builderx.io/) - A design tool which writes React Native code for you , Desktop Mac app to replace your traditional UX design tools.
+- [CodePush](https://github.com/microsoft/react-native-code-push) - Push code updates to your apps, instantly
+- [Storybook](https://storybook.js.org) - UI development environment for your React components
+- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
+
+## Open Source Apps
+
+Open source React Native apps and other examples.
+
+- [Artsy](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
+- [f8app](https://github.com/fbsamples/f8app) - Official F8 (Facebook Developer Conference) app of 2017. See [blog post](http://makeitopen.com/blog/2017/12/04/blog-post-f82017-open-source.html).
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native examples (inspired by 30DaysofSwift)
+- [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
+- [GitPoint](https://github.com/gitpoint/git-point) - A mobile GitHub client for both iOS and Android.
+- [Hacker News (iOS & Android)](https://github.com/iSimar/HackerNews-React-Native)
+- [reading](https://github.com/attentiveness/reading) - Reading App Write In React-Native.
+- [Status.im](https://github.com/status-im/status-react) - Ethereum client.
+- [GitHub Popular](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
+- [Dribbble React Native](https://github.com/catalinmiron/react-native-dribbble-app)
+- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
+- [Finance React Native](https://github.com/7kfpun/FinanceReactNative) - iOS's stocks app clone written in React Native for demo purpose.
+- [Quirk 🐙](https://github.com/flaque/quirk) - Cognitive Behavioral Therapy for iOS and Android.
+- [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) - a testing ground for Task Rabbit's app making
+- [React Weather](https://github.com/stage88/react-weather) - A simple weather app built with React Native
+- [Boostnote](https://github.com/BoostIO/boostnote-mobile) - Boostnote: open source note taking.
+- [react-native-sudoku](https://github.com/nihgwu/react-native-sudoku) - a sudoku game written in React Native
+- [react-native-hiapp](https://github.com/BelinChung/react-native-hiapp) - A simple and Twitter like demo app written in react-native
+- [React Native Netflix](https://github.com/mariodev12/react-native-netflix) - A Netflix-like app.
+- [what the thing?](https://github.com/vigzmv/what_the_thing) - Point camera at things to learn how to say them in a different language.
+- [react-native-basketball](https://github.com/FaridSafi/react-native-basketball) - a clone of the Facebook Basketball game
+- [Surmon.me.native](https://github.com/surmon-china/surmon.me.native) A react-native applaction for surmon.me
+- [An example React Native project for client login authentication](https://github.com/ryanmcdermott/react-native-login)
+- [GitterMobile](https://github.com/terrysahaidak/GitterMobile) - Gitter (chat for github) client for iOS and Android
+- [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader)
+- [Assemblies](https://github.com/buildreactnative/assemblies) - a Meetup clone
+- [DuckDuckGo App (Unofficial)](https://github.com/kiok46/duckduckgo)
+- [Ziliun React Native](https://github.com/sonnylazuardi/ziliun-react-native) - Wordpress based article reader built with react native
+- [Luno](https://github.com/alwx/luno-react-native) - A ClojureScript React Native app demonstration
+- [ReactNativeHackerNews](https://github.com/jsdf/ReactNativeHackerNews)
+- [iOS Conference App made with React Native](https://github.com/mikkoj/NortalTechDay)
+- [MagicMirror](https://github.com/ajwhite/MagicMirror)
+- [Redux Demo](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
+- [React Native Embedded App](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
+- [React Native Example, Geo and Location](https://github.com/bgryszko/react-native-example)
+- [uestc-bbs-react-native](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for <http://bbs.uestc.edu.cn/> written in React Native with Redux
+- [Sh\*\*t! I Smoke](https://github.com/amaurymartiny/shoot-i-smoke) - Know how many cigarettes you smoke based on the pollution of your location.
+- [PxView](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
+- [BBC News (Unofficial)](https://github.com/joeltrew/BBCNews-React-Native) - a BBC news app
+- [HackerBuzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - a Hacker News reader.
+- [Vecihi App](https://github.com/yasintoy/vecihi) – Build your own photo sharing app.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Open Source Team Communication
+- [HackerWeb](https://github.com/cheeaun/hackerweb-native) - A simply readable Hacker News web app for iOS & Android.
+- [Buyscreen sample](https://github.com/appintheair/react-native-buyscreen)
+- [NewsWatch video viewer](https://github.com/bradoyler/newswatch-react-native)
+- [YouTrack Mobile](https://github.com/JetBrains/youtrack-mobile) – a client for YouTrack – issue tracker from JetBrains.
+- [ndash](https://github.com/alexindigo/ndash) - npm dashboard.
+- [Look Lock](https://github.com/7kfpun/PhotosReactNative) - An app for showing photos without worries.
+- [Kakapo - ambient sound mixer](https://github.com/bluedaniel/Kakapo-native)
+- [Appointments](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
+- [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
+- [Buttercup Mobile](https://github.com/buttercup/buttercup-mobile) - Mobile password manager
+- [Insta Snap](https://github.com/iZaL/insta-snap) - Image Sharing App
+- [live translator](https://github.com/agrcrobles/react-native-live-translator) - An app that translates in real time what you see from your mobile.
+- [Finance MacOS React Native](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar support. Data is pulled from Yahoo Finance.
+- [NBAreact](https://github.com/jbkuczma/NBAreact)
+- [Urban Dictionary](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
+- [ASOS](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
+- [Reddit made with React Native and Redux](https://github.com/KevinOfNeu/xReddit)
+- [react-native-redux-facebook](https://github.com/bkspace/react-native-redux-facebook) - A simple React Redux Facebook authentication demo app.
+- [Hekla for Hacker News](https://github.com/birkir/hekla) - Hackernews client with TypeScript, mobx-state-tree, native navigation and css modules.
+- [QRCode App](https://github.com/insiderdev/react-native-qrcode-app) - application for scanning and generating QR codes.
+- [Nearby Live](https://github.com/N3TC4T/Nearby-Live) - An unofficial NearbyLive app for Android and iOS
+- [SoundcloudMboX](https://github.com/trazyn/SoundcloudMboX) SoundcloudMobX is the Soundcloud for iOS, Build with React-Native and MobX.
+- [Native iOS font list](https://github.com/yayolius/react-native-font-list)
+- [React Native Chromecast App](https://github.com/holoed/ChromeCast_ReactNative)
+- [MoeFM](https://github.com/codeestX/MoeFM) - A light MusicPlayer build with React Native & Redux for both Android and iOS.
+- [iTunesConnect](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
+- [Sequent](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
+- [AudienceNetworkReactNative](https://github.com/7kfpun/AudienceNetworkReactNative) - Facebook Audience Network Performance Tool.
+- [rndrawer-implemented-rnrouter](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
+- [Magento 2 Mobile App](https://github.com/troublediehard/magento-react-native) - Magento 2.x mobile app built with React Native
+- [iOS app that transcript your voice with IBM Watson Cloud](https://github.com/yrezgui/meowth-ios)
+- [Splitcloud](https://github.com/egm0121/splitcloud-app) - Share listening to two songs at the same time from Soundcloud (by splitting right/left channels).
+- [ZudVPN](https://github.com/zudvpn/ZudVPN) - Deploy private VPN on major Cloud Providers with [ZudVPN](https://www.zudvpn.com)
+- [Todo List](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
+- [Paramap](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
+- [Confreaks](https://github.com/cabaret/confreaks-react-native)
+- [Vocab React Native](https://github.com/thaiinhk/VocabReactNative) - Thai Vocabulary Learning App
+- [Premier League](https://github.com/ennioma/react-native-premier-league)
+- [Roxie](https://github.com/venepe/react-native-roxie) - Sound processing and bluetooth hardware control.
+- [Roverz](https://github.com/mongrov/roverz) - A native mobile chat client library for Rocket.Chat on both iOS and Android.
+- [Text Blast](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version](https://github.com/SeshApp/text-blast-ionic) for comparison
+- [NewYorkTimesTopStories](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
+- [Quick-Sample](https://github.com/innFactory/react-native-quick-sample) - A small and simple example app with navigation, data persistence, redux, listview and animation.
+- [iGap Plus](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like web, macOS and linux.
+- [Posters_Galore_Android](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
+- [react-native-medium-clap-animation](https://github.com/saketkumar95/react-native-medium-clap-animation) - Medium Clap Animation in React Native
+- [HupuApp](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (<http://bbs.hupu.com/>) client implemented using React Native (Android and iOS).
+- [react-native-uber-clone](https://github.com/saketkumar95/react-native-uber-clone) - Uber UI Clone with animations in react native
+- [Commit Strip (Unofficial)](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
+- [react-native-otello](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
+- [GitHub Jobs Search App (Unofficial)](https://github.com/rizalibnu/github-jobs-react-native) - A GitHub Jobs Search App built in React Native.
+- [Minimal Quotes](https://github.com/insiderdev/minimal-quotes) - Mobile app that throws you random quotes in a super clean minimal version.
+- [Hello Bemans](https://github.com/rapportyou/HelloBemans) - Health Trainer Connection App (Android Version)
+- [RNV2ex](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
+- [Renote](https://github.com/mavajee/react-native-note-example) - A simple react-native example app for make notes.
+- [Manyverse](https://github.com/staltz/manyverse) – Social network off the grid (a Scuttlebutt Android client)
+- [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
+- [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+- [Instagram clone](https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery) - an Instagram clone
+- [Joplin](https://github.com/laurent22/joplin/tree/master/ReactNativeClient) - A note taking app for desktop, CLI, and mobile (linked here is the mobile app).
+- [Cat-or-dog](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
+- [Forex Rates](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
+- [Smog Alert App](https://github.com/Bartozzz/smog-alert-app) – provides real-time air pollution data all around the world and shows nearby polluters.
+- [Audio Book App](https://github.com/minhtc/sachnoiapp) – Completed Audiobook app with some cool animations.
+- [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
+- [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
+- [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
+- [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
+- [TensorFlow.js Starter](https://github.com/t73liu/tfjs-starter) - TensorFlow.js starter app using MobileNet to predict image class. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) for additional context.
+- [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) - Browse through the endless Harvard's Art Museum collection.
+- [NMF.earth](https://github.com/NotMyFaultEarth/nmf-app) - Calculate, understand and reduce your carbon footprint. Available for Android and iOS, using Expo, Redux Toolkit and Typescript.
+- [Nyxo](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
+- [Post Card App](https://github.com/adarsh0d/postcardApp) - Create old style post card and share on whatsapp as image. Built with Expo and available for android.
+
+## Tutorials
+
+Walkthroughs and tutorials that help you learn React Native.
+
+- [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
+- [React Native Crash Course for Beginners - Build 4 Apps in 14 Hours](https://www.youtube.com/watch?v=AkEnidfZnCU)
+- [React Native Chat App Tutorial](https://www.youtube.com/watch?v=B6bKBiljKxU)
+- [React Native Animation Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo)
+- [Start React Native - Animation tutorial series](https://start-react-native.dev/)
+- [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - A series of videos in Arabic showing you how to build a newspaper app with React Native.
+- [Making a Custom Hook](https://www.youtube.com/watch?v=Jl4q2cccwf0)
+- [Building an AI App with ChatGPT, React Native, and NextJS](https://www.youtube.com/watch?v=kR9Kgo8H7po)
+- [React Native Apple Login](https://www.youtube.com/watch?v=IN9_XzX1iDg)
+- [React Native Facebook Login](https://www.youtube.com/watch?v=fDK7N82Szho)
+- [React Native Google Login](https://www.youtube.com/watch?v=MBMWiTsqnck)
+- [Setting up background tasks that run periodically when app is closed in React Native](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
+- [Deploying React Native using Fastlane](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.bjifers3r)
+- [Facebook's F8 App Walkthrough Tutorial: React Native, Redux, Relay, Flow, Jest](http://makeitopen.com/)
+- [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+- [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/blog/leverage-existing-ios-views-react-native-app/)
+- [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
+- [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
+- [React-Native Animated with React-Art - Firework Tap To Shoot](http://browniefed.com/blog/2015/08/29/react-native-animated-with-react-art-firework-show/)
+- [React-native Animated API with PanResponder](http://browniefed.com/blog/2015/08/15/react-native-animated-api-with-panresponder/)
+- [React-native Animated ScrollView Row Swipe Actions](http://browniefed.com/blog/2015/08/01/react-native-animated-listview-row-swipe/)
+- [React-native press and hold button actions](http://browniefed.com/blog/2015/08/22/react-native-press-and-hold-button-actions/)
+- [React Native Express](http://www.reactnativeexpress.com/)
+- [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
+- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
+- [Adding and removing custom fonts in React Native IOS Android](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.s73pqh4ez)
+- [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
+- [React Native for Designers](https://designcode.io/react-native)
+
+## Books
+
+Books - free and commercial.
+
+- [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.
+- [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation.
+- [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
+- [Fullstack React Native](https://fullstackreact.com/react-native/) - The up-to-date, in-depth, complete guide to React Native.
+
 ## Support
 
-<a href="https://www.buymeacoffee.com/mmsmadi"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important"  target="_blank"></a>
+<a href="https://www.buymeacoffee.com/mmsmadi"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important"  target="_blank"/>
