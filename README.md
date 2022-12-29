@@ -21,6 +21,7 @@ You can see the official documentation on the [website](https://reactnative.dev/
 - [Networking](#-networking)
 - [Animation](#-animation)
 - [Utilities](#-utilities)
+- [Dependencies that used in almost every projects](#-dependencies-that-used-in-almost-every-projects)
 - [Open Source Apps](#-open-Source-Apps)
 - [Tutorials](#-tutorials)
 - [Books](#-books)
@@ -110,6 +111,9 @@ src
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 - [react-native-permissions](https://www.npmjs.com/package/react-native-permissions) - A unified permissions API for React Native on iOS, Android and Windows
 - [redux](https://www.npmjs.com/package/redux) - Redux is a predictable state container for JavaScript apps.
+- [portalize](https://github.com/jeremybarbet/react-native-portalize) - The simplest way to render anything on top of the rest.
+- [moment](https://github.com/moment/moment) - A JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [axios](https://github.com/axios/axios) - Promise based HTTP client
 - [react-native-render-html](https://github.com/meliorence/react-native-render-html) - An iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [react-native-maps](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
@@ -118,6 +122,7 @@ src
 - [react-native-swiper](https://github.com/leecade/react-native-swiper) - Swiper component for React Native.
 - [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel) - Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
+- [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native) - The official React Native and Expo components for Stream Chat, a service for building chat applications.
 - [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view) - A scrollable tab-view for React Native
 - [react-native-image-picker](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
 - [react-native-calendars](https://github.com/wix/react-native-calendars) - Calendar Component
@@ -319,6 +324,24 @@ src
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
+
+## Dependencies that used in almost every projects
+
+- [react-native-async-storage](https://react-native-async-storage.github.io/async-storage/docs/install)
+- [react-navigation](https://reactnavigation.org/docs/getting-started)
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+- [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
+- [react-redux](https://github.com/reduxjs/react-redux)
+- [redux](https://github.com/reduxjs/redux)
+- [redux-persist](https://github.com/rt2zz/redux-persist)
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
+- [react-native-dotenv](https://github.com/goatandsheep/react-native-dotenv)
+- [moment](https://github.com/moment/moment)
+- [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)
+- [axios](https://github.com/axios/axios)
+- [react-native-firebase](https://rnfirebase.io)
+- [formik](https://github.com/jaredpalmer/formik)
+- [yup](https://github.com/jquense/yup)
 
 ## Open Source Apps
 
