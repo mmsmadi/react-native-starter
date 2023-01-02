@@ -84,6 +84,8 @@ src
 
 ## Useful links
 
+- [Flatlist performance tips](https://github.com/filipemerker/flatlist-performance-tips)
+- [Optimize react native performance](https://blog.logrocket.com/optimize-react-native-performance)
 - [Blueprint to becoming a React Native Developer (Roadmap)](https://medium.com/@spencer_carli/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 - [React Native CLI vs Expo](https://medium.com/nerd-for-tech/expo-v-s-react-native-cli-what-to-choose-and-what-to-stay-away-from-85afc81597bc)
 - [React Native environment setup](https://reactnative.dev/docs/environment-setup)
